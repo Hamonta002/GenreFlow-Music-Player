@@ -104,7 +104,7 @@ The ID is stored locally in your browser using `chrome.storage` and is never sen
 ## 📁 Project Structure
 
 ```
-GenreFlow-extension-v15-bangla-hindi/
+GenreFlow Music Player/
 ├── manifest.json       # Extension manifest (MV3)
 ├── background.js       # Service worker — opens side panel on click
 ├── offscreen.html      # Offscreen document host for audio
